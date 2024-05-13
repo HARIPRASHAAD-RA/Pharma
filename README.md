@@ -180,32 +180,32 @@ products.html
     <div class="contain">
         <table>
             <tr>
-                <td><img src="Unity.jpeg" height="200px" width="200px">
-                    <p><b>Unity</b><br>
+                <td><img src="zonda f.webp" height="200px" width="200px">
+                    <p><b>ZONDA F</b><br>
                         &nbsp;&nbsp;&nbsp;Game Development<br>
                         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Platform
                     </p>
                 </td>
-                <td><img src="OIP (1).jpeg" height="200px" width="200px"><br>
-                    <p><b>Salesforce</b><br>
+                <td><img src="trach huyra.jpeg" height="200px" width="200px"><br>
+                    <p><b>HUYARA TRACK</b><br>
                         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cloud-based<br>
                         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;CRM
                     </p>
                 </td>
-                <td><img src="WordPress-Simbolo.jpg" height="200px" width="200px"><br>
-                    <p><b>WordPress</b><br>
+                <td><img src="huyara.jpeg" height="200px" width="200px"><br>
+                    <p><b>HUYARA</b><br>
                         &nbsp;&nbsp;&nbsp;Content Management <br>
                         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; System
                     </p>
                 </td>
-                <td><img src="OIP (2).jpeg" height="200px" width="200px"><br>
-                    <p><b>Trello</b><br>
+                <td><img src="utopia.jpeg" height="200px" width="200px"><br>
+                    <p><b>UTOPIA</b><br>
                         &nbsp;&nbsp;&nbsp;&nbsp;Project Management<br>
                         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tool
                     </p>
                 </td>
-                <td><img src="_dropbox-1024.webp" height="200px" width="200px"><br>
-                    <p><b>Dropbox</b><br>
+                <td><img src="zomnda hf.jpeg" height="200px" width="200px"><br>
+                    <p><b>ZONDA HF</b><br>
                         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cloud Storage<br>
                         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Device
                     </p>
@@ -221,6 +221,7 @@ products.html
 </body>
 
 </html>
+
 
 ```
 
